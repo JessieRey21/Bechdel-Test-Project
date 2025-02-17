@@ -1,5 +1,6 @@
 # Bechdel-Test-Project
 Final Project for DATA-2004: Data Wrangling & Visualization 
+
 Project Goal: Tell a story about a data set from import, enrichment, cleaning, tidying, exploratory data analysis and some form of modeling. Essentially you should define a problem, use data to explore it, and make recommendations for some type of action. Use one of the following provided datasets. Each has its own strengths, weaknesses, and challenges and should highlight the data wrangling and cleaning skills you have learned through the term. They will also likely require you to further develop some skills beyond the confines of class. You will be required to locate additional data that can enrich the data you have been provided.
 
 Chosen dataset: Bechdel test (Source: bechdeltest.com)
