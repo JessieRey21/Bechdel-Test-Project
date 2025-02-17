@@ -9,4 +9,4 @@ This was my final project for my DATA-2004 course. The Bechdel Test was created 
 This repository includes the following:
 Final_Project script includes all cleaning and data wrangling
 Final_Graphing includes all visualizations
-Final_Report
+Data Final Report
